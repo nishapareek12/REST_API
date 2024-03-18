@@ -1,0 +1,3 @@
+GET /users - HTML DOCUMENT RENDER
+
+GET/api/users - LIST OF ALL users JSON
